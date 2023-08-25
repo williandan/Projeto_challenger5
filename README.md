@@ -28,10 +28,10 @@ A aplicação deverá:
 
 <div align="center">
   <img
-    width="430"    				src="https://github.com/williandan/Projeto_challenger5/blob/master/public/Home%20e%20Menu.png?raw=true" 
+    width="485"    				src="https://github.com/williandan/Projeto_challenger5/blob/master/public/Home%20e%20Menu.png?raw=true" 
     alt="Imagem da home" />
       <img
-    width="540"    				src="https://github.com/williandan/Projeto_challenger5/blob/master/public/Listagem%20de%20Cobran%C3%A7as.png?raw=true" 
+    width="485"    				src="https://github.com/williandan/Projeto_challenger5/blob/master/public/Listagem%20de%20Cobran%C3%A7as.png?raw=true" 
     alt="Imagem da pagina de cobranças" />
 </div>
 <div align="center">
